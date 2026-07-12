@@ -1,5 +1,3 @@
-from zipfile import __main__
-
 from flask import Flask, jsonify
 
 app = Flask(__name__)
